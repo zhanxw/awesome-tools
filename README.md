@@ -9,10 +9,14 @@
 
 [sd](https://github.com/chmln/sd) - sed alternative, e.g. `echo "sample with /path/" | sd '.*(/.*/)' '$1'`, much eaiser than `sed`: `echo "sample with /path/" | sed -E 's|.*(/.*/)|\1|g'`
 
+[cat](https://github.com/sstadick/hck) - cat alternative
+
 ## File Processing
 [fd](https://github.com/sharkdp/fd) - find alternative `cargo install fd-find`
 
 [diskus](https://github.com/sharkdp/diskus) - a parallel version of `du -sh`
+
+[crabz](https://github.com/sstadick/crabz) - gzip parallel compression/decompression tool 
 
 ## Programming Related
 [hexyl](https://github.com/sharkdp/hexyl) - a hex viewer
