@@ -1,3 +1,5 @@
+This repo includes a list fo handy tools.
+
 ## Text Processing
 [exa](https://github.com/ogham/exa) - ls alternative
 
