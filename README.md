@@ -11,6 +11,8 @@
 
 [cat](https://github.com/sstadick/hck) - cat alternative
 
+[jless](https://jless.io) - JSON viewer, similar to [fx](https://github.com/antonmedv/fx) but faster.
+
 ## File Processing
 [fd](https://github.com/sharkdp/fd) - find alternative `cargo install fd-find`
 
