@@ -1,4 +1,4 @@
-This repo includes a list fo handy tools.
+This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 ## Text Processing
 [exa](https://github.com/ogham/exa) - ls alternative
@@ -14,6 +14,9 @@ This repo includes a list fo handy tools.
 [cat](https://github.com/sstadick/hck) - cat alternative
 
 [jless](https://jless.io) - JSON viewer, similar to [fx](https://github.com/antonmedv/fx) but faster.
+
+[huniq](https://github.com/koraa/huniq) - replacement for `sort|uniq` and it is much faster.
+
 
 ## File Processing
 [fd](https://github.com/sharkdp/fd) - find alternative `cargo install fd-find`
