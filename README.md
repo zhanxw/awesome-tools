@@ -15,6 +15,8 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 [jless](https://jless.io) - JSON viewer, similar to [fx](https://github.com/antonmedv/fx) but faster.
 
+[jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (requires clang to build).
+
 [huniq](https://github.com/koraa/huniq) - replacement for `sort|uniq` and it is much faster.
 
 
@@ -24,6 +26,8 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 [diskus](https://github.com/sharkdp/diskus) - a parallel version of `du -sh`
 
 [crabz](https://github.com/sstadick/crabz) - gzip parallel compression/decompression tool 
+
+[onefetch](https://github.com/o2sh/onefetch) - command-line Git information tool
 
 ## Programming Related
 [hexyl](https://github.com/sharkdp/hexyl) - a hex viewer
