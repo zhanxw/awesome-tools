@@ -19,6 +19,8 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 [huniq](https://github.com/koraa/huniq) - replacement for `sort|uniq` and it is much faster.
 
+[sk](https://github.com/lotabout/skim) - fuzzy finder, a rust implementation of fzf. 
+
 
 ## File Processing
 [fd](https://github.com/sharkdp/fd) - find alternative `cargo install fd-find`
