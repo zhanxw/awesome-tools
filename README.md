@@ -21,6 +21,8 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 [sk](https://github.com/lotabout/skim) - fuzzy finder, a rust implementation of fzf. 
 
+[gron](https://github.com/TomNomNom/gron) - Make JSON greppable!
+
 
 ## File Processing
 [fd](https://github.com/sharkdp/fd) - find alternative `cargo install fd-find`
@@ -35,7 +37,7 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 
 ## Data Processing
-[histoterm](https://github.com/zhanxw/histoterm)) - Draw histogram in terminal
+[histoterm](https://github.com/zhanxw/histoterm) - Draw histogram in terminal
 
 [visidata](https://www.visidata.org) - VisiData is an interactive multitool for tabular data
 
