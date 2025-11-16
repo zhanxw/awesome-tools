@@ -33,7 +33,7 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 [onefetch](https://github.com/o2sh/onefetch) - command-line Git information tool
 
-[xleak](https://github.com/bgreenwell/xleak)) - A fast terminal Excel viewer with an interactive TUI
+[xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI
 
 
 ## Data Processing
@@ -43,6 +43,7 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 [textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 
+[duckdb](https://tldr.inbrowser.app/pages/common/duckdb) - handy tools, e.g., `duckdb path/to/dbfile -cmd "SELECT DISTINCT * FROM tbl"`
 
 
 
