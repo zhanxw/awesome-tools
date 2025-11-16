@@ -31,6 +31,10 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 [onefetch](https://github.com/o2sh/onefetch) - command-line Git information tool
 
+[xleak]([https://github.com/o2sh/onefetch](https://github.com/bgreenwell/xleak)) - A fast terminal Excel viewer with an interactive TUI
+
+
+
 ## Programming Related
 [hexyl](https://github.com/sharkdp/hexyl) - a hex viewer
 
