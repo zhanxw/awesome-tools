@@ -11,7 +11,7 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 [sd](https://github.com/chmln/sd) - sed alternative, e.g. `echo "sample with /path/" | sd '.*(/.*/)' '$1'`, much eaiser than `sed`: `echo "sample with /path/" | sed -E 's|.*(/.*/)|\1|g'`
 
-[cat](https://github.com/sstadick/hck) - cat alternative
+[hck](https://github.com/sstadick/hck) - a sharp cut(1) clone.
 
 [jless](https://jless.io) - JSON viewer, similar to [fx](https://github.com/antonmedv/fx) but faster.
 
@@ -45,6 +45,7 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 [duckdb](https://tldr.inbrowser.app/pages/common/duckdb) - handy tools, e.g., `duckdb path/to/dbfile -cmd "SELECT DISTINCT * FROM tbl"`
 
+[sqlit](https://github.com/Maxteabag/sqlit) - a user friendly TUI for SQL databases.
 
 
 ## Programming Related
