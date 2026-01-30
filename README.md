@@ -57,5 +57,8 @@ This repo includes a list fo handy tools. Most of them are implemented in rust.
 
 [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
+
 ## System Utilities
 [hyperfine](https://github.com/sharkdp/hyperfine) - simple benchmark tool
+[yazi](https://github.com/sxyazi/yazi) - terminal file manager
+
